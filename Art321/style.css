@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+	background-color: #434343ff;
+	background-size: cover
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+}
+
+li a.active {
+    background-color: #21aaa0;
+    color: white;
+	font-weight: bold;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+h2.start {
+	color: 21aaa0;
+	font-family: 'Roboto', sans-serif;
+	font-size: 45px;
+}
+
+h3.title {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-style: italic;
+}
+
+h4.body {
+	color: white;
+	font-family: 'Roboto', sans-serif;	
+	width: 980px;
+}
