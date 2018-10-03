@@ -1,7 +1,6 @@
 body {
     margin: 0;
 	background-color: #434343ff;
-	background-size: cover
 }
 
 ul {
@@ -35,19 +34,36 @@ li a:hover:not(.active) {
 }
 
 h2.start {
-	color: 21aaa0;
+	color: #21aaa0;
 	font-family: 'Roboto', sans-serif;
 	font-size: 45px;
 }
 
 h3.title {
+	background-color: #21aaa0;
+	width: 795px;
 	color: white;
 	font-family: 'Roboto', sans-serif;
-	font-style: italic;
+	padding-left:5px;
+	padding-top:5px;
+	padding-bottom:5px;
 }
 
 h4.body {
-	color: white;
 	font-family: 'Roboto', sans-serif;	
 	width: 800px;
+	color: #b7b7b7ff;
+}
+
+h4.sub-body {
+	font-family: 'Roboto', sans-serif;	
+	width: 795px;
+	color: #b7b7b7ff;
+	padding-left: 5px;
+}
+
+img.hold {
+	width:200px;
+	padding-right: 10px;
+
 }
