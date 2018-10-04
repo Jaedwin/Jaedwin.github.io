@@ -49,6 +49,16 @@ h3.title {
 	padding-bottom:5px;
 }
 
+h3.title-ucid {
+	background-color: #21aaa0;
+	width: 475px;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	padding-left:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
 h4.body {
 	font-family: 'Roboto', sans-serif;	
 	width: 800px;
