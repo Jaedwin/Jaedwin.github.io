@@ -85,3 +85,16 @@ img.week3{
 img.week3-sheet{
     width:800px;
 }
+
+.spoiler, .spoiler2{ 
+  color: black; 
+  background-color:#434343ff;
+}
+
+.spoiler:hover{
+  color: white;
+  }
+
+.spoiler2:hover { 
+  background-color:white; 
+  }
