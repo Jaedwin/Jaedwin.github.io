@@ -44,4 +44,4 @@ $('.close').click(function(){
 
 // snow effect customizations
 
-$(document).snowfall({flakeCount : 250,collection : '',  maxSpeed : 5});
+$(document).snowfall({flakeCount : 500,collection : '.collectonme',  maxSpeed : 5});
